@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Sufyan Mansuri - GitHub](http://github.com/sufyanmansuri)
