@@ -4,3 +4,4 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 - **This line will be bold.**
 - __This line will also be bold.__
 - *There will be __bold text__ in this italic line.*
+- __There will be*italic text* in this bold line.__
